@@ -2,7 +2,7 @@
 
 Portfolio website for T. Wendell Williams III.
 
-This repository contains the static HTML, CSS, JavaScript, and media files for the portfolio. The email address is intentionally omitted; an email correspondence form will be added later.
+This repository contains the static HTML, CSS, JavaScript, and media files for the portfolio.
 
 ## Run locally
 
